@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="DiljanCustomAutoEPG">
+  <channel id="892">
+    <display-name lang="en">Sony Ten 3 HD Hindi</display-name>
+  </channel>
+  <channel id="1143">
+    <display-name lang="en">Star Utsav</display-name>
+  </channel>
+  <channel id="2774">
+    <display-name lang="en">Power Kids TV</display-name>
+  </channel>
+  <channel id="930">
+    <display-name lang="en">Lalbaugh Cha Raja</display-name>
+  </channel>
+  <channel id="3385">
+    <display-name lang="en">Epic Kids</display-name>
+  </channel>
+  <channel id="801">
+    <display-name lang="en">Divya TV</display-name>
+  </channel>
+  <channel id="1223">
+    <display-name lang="en">Dagdusheth Ganpati - Pune</display-name>
+  </channel>
+  <channel id="2821">
+    <display-name lang="en">GSB Seva Mandal</display-name>
+  </channel>
+  <channel id="939">
+    <display-name lang="en">Bhakti Sagar TV</display-name>
+  </channel>
+  <channel id="173">
+    <display-name lang="en">Aaj Tak</display-name>
+  </channel>
+  <channel id="1251">
+    <display-name lang="en">TV9 Bharatvarsh</display-name>
+  </channel>
+  <channel id="672">
+    <display-name lang="en">ABP Ananda</display-name>
+  </channel>
+  <channel id="235">
+    <display-name lang="en">India TV</display-name>
+  </channel>
+  <channel id="1403">
+    <display-name lang="en">Republic Bharat</display-name>
+  </channel>
+  <channel id="231">
+    <display-name lang="en">News 18 India</display-name>
+  </channel>
+  <channel id="504">
+    <display-name lang="en">Zee News</display-name>
+  </channel>
+  <channel id="177">
+    <display-name lang="en">ABP News India</display-name>
+  </channel>
+  <channel id="657">
+    <display-name lang="en">Zee Business</display-name>
+  </channel>
+  <channel id="858">
+    <display-name lang="en">Republic TV</display-name>
+  </channel>
+  <channel id="612">
+    <display-name lang="en">ABP Majha</display-name>
+  </channel>
+  <channel id="3551">
+    <display-name lang="en">BBC News Gujarati</display-name>
+  </channel>
+  <channel id="255">
+    <display-name lang="en">NDTV</display-name>
+  </channel>
+  <channel id="442">
+    <display-name lang="en">Zee 24 Taas</display-name>
+  </channel>
+  <channel id="493">
+    <display-name lang="en">India Today</display-name>
+  </channel>
+  <channel id="1735">
+    <display-name lang="en">TV9 Bangla</display-name>
+  </channel>
+  <channel id="258">
+    <display-name lang="en">NDTV India</display-name>
+  </channel>
+  <channel id="658">
+    <display-name lang="en">Zee MP Chattisgarh</display-name>
+  </channel>
+  <channel id="1747">
+    <display-name lang="en">India News Gujarat</display-name>
+  </channel>
+  <channel id="651">
+    <display-name lang="en">Raj News Kannada</display-name>
+  </channel>
+  <channel id="383">
+    <display-name lang="en">Times NOW</display-name>
+  </channel>
+  <channel id="636">
+    <display-name lang="en">Polimer News</display-name>
+  </channel>
+  <channel id="929">
+    <display-name lang="en">Zee 24 Kalak</display-name>
+  </channel>
+  <channel id="1205">
+    <display-name lang="en">ABP Ganga</display-name>
+  </channel>
+  <channel id="1431">
+    <display-name lang="en">BBC News Hindi</display-name>
+  </channel>
+  <channel id="696">
+    <display-name lang="en">News18 Odia</display-name>
+  </channel>
+  <channel id="2742">
+    <display-name lang="en">Zee Kannada News</display-name>
+  </channel>
+  <channel id="492">
+    <display-name lang="en">CNN NEWS18</display-name>
+  </channel>
+  <channel id="616">
+    <display-name lang="en">TV9 Gujarati</display-name>
+  </channel>
+  <channel id="664">
+    <display-name lang="en">Raj News Telugu</display-name>
+  </channel>
+  <channel id="656">
+    <display-name lang="en">News 9</display-name>
+  </channel>
+  <channel id="513">
+    <display-name lang="en">India News Rajasthan</display-name>
+  </channel>
+  <channel id="704">
+    <display-name lang="en">OTV</display-name>
+  </channel>
+  <channel id="626">
+    <display-name lang="en">Suvarna News</display-name>
+  </channel>
+  <channel id="650">
+    <display-name lang="en">Raj News Malayalam</display-name>
+  </channel>
+  <channel id="190">
+    <display-name lang="en">CNBC Awaaz</display-name>
+  </channel>
+  <channel id="654">
+    <display-name lang="en">Zee Punjab Haryana HP</display-name>
+  </channel>
+  <channel id="2326">
+    <display-name lang="en">Firstpost</display-name>
+  </channel>
+  <channel id="641">
+    <display-name lang="en">ABP Asmita</display-name>
+  </channel>
+  <channel id="2224">
+    <display-name lang="en">India News Punjab</display-name>
+  </channel>
+  <channel id="1906">
+    <display-name lang="en">Times Now Navbharat</display-name>
+  </channel>
+  <channel id="619">
+    <display-name lang="en">TV9 Kannada</display-name>
+  </channel>
+  <channel id="259">
+    <display-name lang="en">NDTV Profit</display-name>
+  </channel>
+  <channel id="617">
+    <display-name lang="en">TV9 Marathi</display-name>
+  </channel>
+  <channel id="412">
+    <display-name lang="en">Wion</display-name>
+  </channel>
+  <channel id="516">
+    <display-name lang="en">India News Haryana</display-name>
+  </channel>
+  <channel id="1291">
+    <display-name lang="en">ABP Sanjha</display-name>
+  </channel>
+  <channel id="3155">
+    <display-name lang="en">Bloomberg TV+</display-name>
+  </channel>
+  <channel id="3552">
+    <display-name lang="en">BBC News Marathi</display-name>
+  </channel>
+  <channel id="502">
+    <display-name lang="en">Good News Today</display-name>
+  </channel>
+  <channel id="724">
+    <display-name lang="en">Zee Delhi NCR Haryana</display-name>
+  </channel>
+  <channel id="203">
+    <display-name lang="en">DD News</display-name>
+  </channel>
+  <channel id="498">
+    <display-name lang="en">India news</display-name>
+  </channel>
+  <channel id="499">
+    <display-name lang="en">News Nation</display-name>
+  </channel>
+  <channel id="618">
+    <display-name lang="en">TV9 Telugu</display-name>
+  </channel>
+  <channel id="515">
+    <display-name lang="en">India News MP</display-name>
+  </channel>
+  <channel id="464">
+    <display-name lang="en">Zee 24 Ghanta</display-name>
+  </channel>
+  <channel id="512">
+    <display-name lang="en">India News UP</display-name>
+  </channel>
+  <channel id="1477">
+    <display-name lang="en">Colors Cineplex HD</display-name>
+  </channel>
+  <channel id="1145">
+    <display-name lang="en">MTV HD</display-name>
+  </channel>
+  <channel id="1373">
+    <display-name lang="en">Disney Channel</display-name>
+  </channel>
+  <channel id="471">
+    <display-name lang="en">Sony SAB HD</display-name>
+  </channel>
+  <channel id="3543">
+    <display-name lang="en">Eros Universe Bollywood Cinema</display-name>
+  </channel>
+  <channel id="2753">
+    <display-name lang="en">YRF Music</display-name>
+  </channel>
+  <channel id="815">
+    <display-name lang="en">Sonic Hindi</display-name>
+  </channel>
+  <channel id="1132">
+    <display-name lang="en">Star Plus HD</display-name>
+  </channel>
+  <channel id="3336">
+    <display-name lang="en">NH BollyFlix</display-name>
+  </channel>
+  <channel id="291">
+    <display-name lang="en">SET HD</display-name>
+  </channel>
+  <channel id="3074">
+    <display-name lang="en">Shemaroo Filmy Gaane</display-name>
+  </channel>
+  <channel id="559">
+    <display-name lang="en">Pogo Hindi</display-name>
+  </channel>
+  <channel id="474">
+    <display-name lang="en">Sony Pal</display-name>
+  </channel>
+  <channel id="3096">
+    <display-name lang="en">Star Gold 2 HD</display-name>
+  </channel>
+  <channel id="440">
+    <display-name lang="en">9X Jalwa</display-name>
+  </channel>
+  <channel id="897">
+    <display-name lang="en">Sun Gemini HD</display-name>
+  </channel>
+  <channel id="3097">
+    <display-name lang="en">Star Gold Romance</display-name>
+  </channel>
+  <channel id="587">
+    <display-name lang="en">9XM</display-name>
+  </channel>
+  <channel id="548">
+    <display-name lang="en">Nickelodeon Jr.</display-name>
+  </channel>
+  <channel id="279">
+    <display-name lang="en">Colors Rishtey</display-name>
+  </channel>
+  <channel id="1113">
+    <display-name lang="en">Star Gold Select HD</display-name>
+  </channel>
+  <channel id="2750">
+    <display-name lang="en">Saga Music</display-name>
+  </channel>
+  <channel id="1391">
+    <display-name lang="en">Hungama</display-name>
+  </channel>
+  <channel id="785">
+    <display-name lang="en">Colors Super</display-name>
+  </channel>
+  <channel id="1136">
+    <display-name lang="en">Star Utsav Movies</display-name>
+  </channel>
+  <channel id="1763">
+    <display-name lang="en">Colors Cineplex Bollywood</display-name>
+  </channel>
+  <channel id="732">
+    <display-name lang="en">9X Tashan</display-name>
+  </channel>
+  <channel id="554">
+    <display-name lang="en">Discovery Kids Hindi</display-name>
+  </channel>
+  <channel id="1393">
+    <display-name lang="en">Sony Wah</display-name>
+  </channel>
+  <channel id="1961">
+    <display-name lang="en">Shemaroo TV</display-name>
+  </channel>
+  <channel id="3544">
+    <display-name lang="en">Eros Universe Entertainment</display-name>
+  </channel>
+  <channel id="2437">
+    <display-name lang="en">Wild Earth</display-name>
+  </channel>
+  <channel id="946">
+    <display-name lang="en">Pitaara</display-name>
+  </channel>
+  <channel id="1392">
+    <display-name lang="en">Super Hungama</display-name>
+  </channel>
+  <channel id="317">
+    <display-name lang="en">Star Jalsha HD</display-name>
+  </channel>
+  <channel id="3382">
+    <display-name lang="en">EPIC TV</display-name>
+  </channel>
+  <channel id="1450">
+    <display-name lang="en">Colors Cineplex Superhit</display-name>
+  </channel>
+  <channel id="760">
+    <display-name lang="en">Maa Movies HD</display-name>
+  </channel>
+  <channel id="895">
+    <display-name lang="en">Sun Music HD</display-name>
+  </channel>
+  <channel id="755">
+    <display-name lang="en">Colors Marathi HD</display-name>
+  </channel>
+  <channel id="336">
+    <display-name lang="en">Star Pravah HD</display-name>
+  </channel>
+  <channel id="1754">
+    <display-name lang="en">Sun Surya Movies</display-name>
+  </channel>
+  <channel id="1112">
+    <display-name lang="en">Maa HD</display-name>
+  </channel>
+  <channel id="3559">
+    <display-name lang="en">ETV Beats</display-name>
+  </channel>
+  <channel id="3451">
+    <display-name lang="en">Animal Planet HD Hindi</display-name>
+  </channel>
+  <channel id="3322">
+    <display-name lang="en">ZB Cinema </display-name>
+  </channel>
+  <channel id="443">
+    <display-name lang="en">Asianet HD</display-name>
+  </channel>
+  <channel id="1665">
+    <display-name lang="en">ETV Cinema HD </display-name>
+  </channel>
+  <channel id="368">
+    <display-name lang="en">Star Vijay HD</display-name>
+  </channel>
+  <channel id="729">
+    <display-name lang="en">Sun Gemini Comedy</display-name>
+  </channel>
+  <channel id="156">
+    <display-name lang="en">Star Gold HD</display-name>
+  </channel>
+  <channel id="570">
+    <display-name lang="en">ETV Life</display-name>
+  </channel>
+  <channel id="565">
+    <display-name lang="en">ETV Music</display-name>
+  </channel>
+  <channel id="146">
+    <display-name lang="en">History TV18 HD</display-name>
+  </channel>
+  <channel id="1669">
+    <display-name lang="en">Sun Bangla</display-name>
+  </channel>
+  <channel id="751">
+    <display-name lang="en">Tarang Music</display-name>
+  </channel>
+  <channel id="3267">
+    <display-name lang="en">Star Kiran</display-name>
+  </channel>
+  <channel id="476">
+    <display-name lang="en">Sony Max HD</display-name>
+  </channel>
+  <channel id="744">
+    <display-name lang="en">Sun Udaya Music</display-name>
+  </channel>
+  <channel id="370">
+    <display-name lang="en">Suvarna HD</display-name>
+  </channel>
+  <channel id="196">
+    <display-name lang="en">Colors Gujarati</display-name>
+  </channel>
+  <channel id="3384">
+    <display-name lang="en">EPIC Bhojpuri</display-name>
+  </channel>
+  <channel id="1374">
+    <display-name lang="en">Disney Junior</display-name>
+  </channel>
+  <channel id="682">
+    <display-name lang="en">Sun Life</display-name>
+  </channel>
+  <channel id="3075">
+    <display-name lang="en">Shemaroo Bollywood</display-name>
+  </channel>
+  <channel id="898">
+    <display-name lang="en">Sun Gemini Music HD</display-name>
+  </channel>
+  <channel id="3321">
+    <display-name lang="en">ZB Cartoon</display-name>
+  </channel>
+  <channel id="483">
+    <display-name lang="en">Sony MAX2</display-name>
+  </channel>
+  <channel id="3088">
+    <display-name lang="en">Sun Neo HD</display-name>
+  </channel>
+  <channel id="614">
+    <display-name lang="en">ETV Andhra pradesh</display-name>
+  </channel>
+  <channel id="756">
+    <display-name lang="en">Colors Bangla HD</display-name>
+  </channel>
+  <channel id="735">
+    <display-name lang="en">Sangeet Marathi</display-name>
+  </channel>
+  <channel id="3444">
+    <display-name lang="en">Discovery HD Hindi</display-name>
+  </channel>
+  <channel id="3560">
+    <display-name lang="en">ETV Josh</display-name>
+  </channel>
+  <channel id="441">
+    <display-name lang="en">9x Jhakaas</display-name>
+  </channel>
+  <channel id="545">
+    <display-name lang="en">Nick Hindi</display-name>
+  </channel>
+  <channel id="684">
+    <display-name lang="en">Sun Gemini Life</display-name>
+  </channel>
+  <channel id="703">
+    <display-name lang="en">Tarang</display-name>
+  </channel>
+  <channel id="629">
+    <display-name lang="en">ETV Telugu</display-name>
+  </channel>
+  <channel id="2424">
+    <display-name lang="en">Sun Marathi</display-name>
+  </channel>
+  <channel id="2751">
+    <display-name lang="en">Saga Music Haryanvi</display-name>
+  </channel>
+  <channel id="630">
+    <display-name lang="en">ETV Telangana</display-name>
+  </channel>
+  <channel id="899">
+    <display-name lang="en">Sun Gemini Movies HD</display-name>
+  </channel>
+  <channel id="3266">
+    <display-name lang="en">Vijay Super HD</display-name>
+  </channel>
+  <channel id="1657">
+    <display-name lang="en">Colors Bangla Cinema</display-name>
+  </channel>
+  <channel id="900">
+    <display-name lang="en">Sun Surya HD</display-name>
+  </channel>
+  <channel id="3383">
+    <display-name lang="en">Epic Bharat</display-name>
+  </channel>
+  <channel id="740">
+    <display-name lang="en">Sangeet Bangla</display-name>
+  </channel>
+  <channel id="1662">
+    <display-name lang="en">Sun Surya Comedy</display-name>
+  </channel>
+  <channel id="1632">
+    <display-name lang="en">Colors Kannada Cinema</display-name>
+  </channel>
+  <channel id="3098">
+    <display-name lang="en">Star Gold Thrills</display-name>
+  </channel>
+  <channel id="2956">
+    <display-name lang="en">ETV Plus HD</display-name>
+  </channel>
+  <channel id="1452">
+    <display-name lang="en">Shemaroo MarathiBana</display-name>
+  </channel>
+  <channel id="747">
+    <display-name lang="en">Sun Surya Music</display-name>
+  </channel>
+  <channel id="1324">
+    <display-name lang="en">Colors Gujarati Cinema</display-name>
+  </channel>
+  <channel id="896">
+    <display-name lang="en">Sun TV HD</display-name>
+  </channel>
+  <channel id="1973">
+    <display-name lang="en">ETV HD</display-name>
+  </channel>
+  <channel id="757">
+    <display-name lang="en">Colors Kannada HD</display-name>
+  </channel>
+  <channel id="1956">
+    <display-name lang="en">Sidharth TV</display-name>
+  </channel>
+  <channel id="429">
+    <display-name lang="en">Colors Tamil HD</display-name>
+  </channel>
+  <channel id="1140">
+    <display-name lang="en">Suvarna Plus</display-name>
+  </channel>
+  <channel id="3417">
+    <display-name lang="en">Roja Movies</display-name>
+  </channel>
+  <channel id="678">
+    <display-name lang="en">Sun Udaya Movies</display-name>
+  </channel>
+  <channel id="816">
+    <display-name lang="en">Cartoon Network Hindi</display-name>
+  </channel>
+  <channel id="457">
+    <display-name lang="en">Jalsha Movies HD</display-name>
+  </channel>
+  <channel id="733">
+    <display-name lang="en">Sun Udaya Comedy</display-name>
+  </channel>
+  <channel id="3269">
+    <display-name lang="en">Vijay Takkar</display-name>
+  </channel>
+  <channel id="1375">
+    <display-name lang="en">Disney International HD</display-name>
+  </channel>
+  <channel id="3100">
+    <display-name lang="en">Star Pravah Picture HD</display-name>
+  </channel>
+  <channel id="459">
+    <display-name lang="en">Asianet Movies HD</display-name>
+  </channel>
+  <channel id="1137">
+    <display-name lang="en">Maa Gold</display-name>
+  </channel>
+  <channel id="3401">
+    <display-name lang="en">Swastik Stories</display-name>
+  </channel>
+  <channel id="741">
+    <display-name lang="en">Sangeet Bhojpuri</display-name>
+  </channel>
+  <channel id="901">
+    <display-name lang="en">Sun Udaya HD</display-name>
+  </channel>
+  <channel id="562">
+    <display-name lang="en">Travelxp HD Hindi</display-name>
+  </channel>
+  <channel id="182">
+    <display-name lang="en">B4U Movies</display-name>
+  </channel>
+  <channel id="3022">
+    <display-name lang="en">Unique TV</display-name>
+  </channel>
+  <channel id="550">
+    <display-name lang="en">Discovery Kids Tamil</display-name>
+  </channel>
+  <channel id="1079">
+    <display-name lang="en">Cartoon Network HD+ English</display-name>
+  </channel>
+  <channel id="162">
+    <display-name lang="en">Sony Ten 1 HD</display-name>
+  </channel>
+  <channel id="891">
+    <display-name lang="en">Sony Ten 2 HD</display-name>
+  </channel>
+  <channel id="155">
+    <display-name lang="en">Sony Ten 5 HD</display-name>
+  </channel>
+  <channel id="2779">
+    <display-name lang="en">Red Bull TV</display-name>
+  </channel>
+  <channel id="3011">
+    <display-name lang="en">Lancs TV HD</display-name>
+  </channel>
+  <channel id="875">
+    <display-name lang="en">Eurosport HD</display-name>
+  </channel>
+  <channel id="2766">
+    <display-name lang="en">BRAVE TV</display-name>
+  </channel>
+  <channel id="3146">
+    <display-name lang="en">All Women's Sports Network</display-name>
+  </channel>
+  <channel id="3243">
+    <display-name lang="en">Pickleball Now</display-name>
+  </channel>
+  <channel id="3530">
+    <display-name lang="en">UIPM Pentathlon World Cup</display-name>
+  </channel>
+  <channel id="3546">
+    <display-name lang="en">FIA TCR World Tour</display-name>
+  </channel>
+  <channel id="3499">
+    <display-name lang="en">World Chess</display-name>
+  </channel>
+</tv>
